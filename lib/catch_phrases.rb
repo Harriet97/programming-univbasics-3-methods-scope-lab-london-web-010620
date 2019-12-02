@@ -13,3 +13,8 @@ def link
   puts catch_phrase
 end
 
+def any_phrase(phrase)
+  
+  puts "Do a Barrel Roll!\n"
+  
+
